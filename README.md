@@ -1,8 +1,9 @@
 # casting-product-image-data-for-quality-inspection
-casting product image data for quality inspection
+
 # Jafar Abdollahi
 
-<h2> This project is designed to utilize a ResNet50-based Convolutional Neural Network (CNN) architecture for defect detection in casting products. The pre-trained ResNet50 model, which has been trained on the ImageNet dataset, is repurposed to classify casting images into two categories: "OK" (non-defective) and "Defected".
+<h2> casting product image data for quality inspection </h2>
+This project is designed to utilize a ResNet50-based Convolutional Neural Network (CNN) architecture for defect detection in casting products. The pre-trained ResNet50 model, which has been trained on the ImageNet dataset, is repurposed to classify casting images into two categories: "OK" (non-defective) and "Defected".
 
 Workflow:
 
@@ -22,14 +23,6 @@ Evaluation of the model using various metrics such as accuracy, precision-recall
 This approach demonstrates the power of transfer learning for tasks such as defect detection, where training data might be limited.
 
 
-
-
-
-
- </h2>
-
-
-
 <h2> https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product/data </h2>
 <img src=" "> 
 <img src=" "> 
@@ -44,9 +37,9 @@ This approach demonstrates the power of transfer learning for tasks such as defe
 
 
 <h2> Conlusion </h2>
-<img src=" "> 
-<img src=" "> 
-<img src=" "> 
+<img src="https://github.com/Jafar-Abdollahi/casting-product-image-data-for-quality-inspection/blob/main/download%20(2).png"> 
+<img src="https://github.com/Jafar-Abdollahi/casting-product-image-data-for-quality-inspection/blob/main/download%20(1).png"> 
+<img src="https://github.com/Jafar-Abdollahi/casting-product-image-data-for-quality-inspection/blob/main/download.png"> 
 <img src=" "> 
 
 
